@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from prometheus_client import start_http_server, Summary
 import random
 import time
